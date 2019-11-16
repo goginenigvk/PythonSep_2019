@@ -1,0 +1,4 @@
+
+
+class CompanyException(BaseException):
+    pass 
